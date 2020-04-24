@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="JSON_URL">
+        <item>https://www.pcs.cnu.edu/~kperkins/pets/</item>
+        <item>https://www.tetonsoftware.com/pets/</item>
+    </array>
+    <array name="JSON_URL_Name">
+        <item>CNU - Defender</item>
+        <item>Pair - Teton Software - Pets</item>
+    </array>
+</resources>

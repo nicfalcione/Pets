@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="error404">404! It looks like your network has disconnected...</string>
+    <string name="Settings">Settings</string>
+    <string name="pet_url">https://www.pcs.cnu.edu/~kperkins/pets/</string>
+    <string name="json">pets.json</string>
+</resources>
